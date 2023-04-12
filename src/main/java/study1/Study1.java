@@ -36,6 +36,7 @@ public class Study1 {
 		
 		
 		int nnum = 777;
+		String strong = "im strong boy";
 	}
 	
 }
